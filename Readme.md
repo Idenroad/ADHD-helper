@@ -1,6 +1,6 @@
 This repository will contain some planner for adhd
 
-# 🧠 <u><span style="color:red">ADHD Daily quest planner</span></u>
+# 🧠 <u><span style="color:red">ADHD Daily Quest Planner</span></u>
 
 You'll find the markdown version. Here the Taskade template version: 
 
