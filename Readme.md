@@ -1,4 +1,4 @@
-This repository will contain some planner for adhd
+This repository will contain some Taskade planners for adhd
 
 # 🧠 <u><span style="color:red">ADHD Daily Quest Planner</span></u>
 
