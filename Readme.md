@@ -19,3 +19,14 @@ This planner for Taskade is a weekly planner with schedule, to-do list, prioriti
 Link to have this template:
 
 https://www.taskade.com/embed/BWtPMqX8RQqH72XF?as=board&share=view&view=GCjCSt6HAuKb4urP&theme=light&coverImageType=background
+
+# 💙 <u><span style="color:pink">TDAH mon bonheur et mes besoins</span></u>
+
+Cette carte mentale Taskade a pour objectif de permettre à un TDAH de distinguer l'impulsivité d'un besoin et de se questionner sur la question de besoin et les moyens de les combler.
+
+![image](https://github.com/Idenroad/ADHD-helper/assets/150827422/6146fb27-69ea-4a09-b427-47045accef22)
+
+
+Lien vers le template:
+
+https://www.taskade.com/embed/eQcZmCxbyaYGrs6Z?as=mindmap&share=view&view=fsQ6SzZCbHNuiuQw&theme=light&coverImageType=background
